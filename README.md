@@ -1,1 +1,1 @@
-# portifolioAMS2024-3DS
+Repositório criado para apresentar o projeto desenvolvido para a empresa IBM e registrar a contagem de horas dos cursos disponibilizados  na plataforma SkillsBuild.
